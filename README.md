@@ -1,9 +1,9 @@
--  Hi, I’m @DevShaunMoss
--  I’m interested in Artificial Intelligence 
--  I’m currently learning c++
--  I’m looking to collaborate on AI and Machine Learning 
--  How to reach me shaunmosssiankope@gmail.com
-<!---
-DevShaunMoss/DevShaunMoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @DevShaunMoss
+
+I’m passionate about Artificial Intelligence and Machine Learning.
+
+Currently learning C++ to deepen my understanding of AI development.
+
+Open to collaborations on AI and ML projects.
+
+Feel free to reach out: shaunmosssiankope@gmail.com

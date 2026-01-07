@@ -1,9 +1,7 @@
-Hi, I’m @DevShaunMoss
+Hi, I’m Shaun
+Computer Science student passionate about Web Development, Artificial Intelligence, and Machine Learning.
 
-I’m passionate about Artificial Intelligence and Machine Learning.
+Currently building projects with HTML, CSS, JavaScript, and learning C++ to strengthen my foundation in AI and systems programming.
 
-Currently learning C++ to deepen my understanding of AI development.
-
-Open to collaborations on AI and ML projects.
-
-Feel free to reach out: shaunmosssiankope@gmail.com
+Open to internships, collaborations, and real-world projects.  
+📫 Reach me: shaunmosssiankope@gmail.com
